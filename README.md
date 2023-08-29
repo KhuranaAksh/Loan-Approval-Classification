@@ -1,1 +1,2 @@
 # Loan-Approval-Classification
+Welcome to the Loan Approval Prediction project! In this project, I have developed a machine learning models that assesses the likelihood of an individual's loan approval. By training my model on a diverse dataset containing information about various individuals with different financial statuses and their historical loan personal information, I have enabled it to discern patterns that influence loan approval decisions.
