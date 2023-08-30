@@ -7,4 +7,13 @@ Markup
 # Data
 The loan approval dataset comprises financial records and related data utilized to assess the qualification of individuals or entities for securing loans from a lending institution. This dataset encompasses diverse variables like credit scores, income, employment standing, loan duration, loan amount, asset valuation, and loan approval status.
 # Results
-The performance of algorithms such as Decision Tree, Random Forest, XGBoost, and CatBoost demonstrates notable similarity in outcomes, while MLP and K-Nearest Neighbor exhibit subpar performance on this specific dataset. This highlights the critical significance of selecting an appropriate model for accurate predictions. Notably, Random Forest (99.69%) and XGBoost (99.69 %) exhibit slightly improved performance, achieving the highest F1 score and Accuracy score among the models considered.
+model |	Root Mean Squared | Error	Accuracy on Traing set |	Accuracy on Testing set
+------|-------------------|------------------------------|-------------------------
+3 |	MLPClassifier |	0.763635 |	39.502196 |	41.686183
+7	KNeighborsClassifier	0.670559	72.445095	55.035129
+4	AdaBoostClassifier	0.181071	97.920937	96.721311
+5	ExtraTreesClassifier	0.171096	100.000000	97.072600
+0	DecisionTreeClassifier	0.149158	100.000000	97.775176
+6	GradientBoostingClassifier	0.149158	99.472914	97.775176
+1	XGBClassifier	0.141090	100.000000	98.009368
+2	RandomForestClassifier	0.141090	100.000000	98.009368
