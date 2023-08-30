@@ -17,3 +17,4 @@ Rank | model |	Root Mean Squared Error |	Accuracy on Traing set |	Accuracy on Te
 6 |	GradientBoostingClassifier |	0.149158 |	99.472914 |	97.775176
 1 |	XGBClassifier |	0.141090 |	100.000000 |	98.009368
 2 |	RandomForestClassifier |	0.141090 |	100.000000 |	98.009368
+Markup : ![picture alt](https://github.com/KhuranaAksh/Loan-Approval-Classification/blob/a99ff7735bdf034c369546ce9bf7bfb2fbeb32ff/F1Scores.JPG/200x150 "F1 Scores")
