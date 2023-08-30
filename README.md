@@ -7,7 +7,7 @@ Markup
 # Data
 The loan approval dataset comprises financial records and related data utilized to assess the qualification of individuals or entities for securing loans from a lending institution. This dataset encompasses diverse variables like credit scores, income, employment standing, loan duration, loan amount, asset valuation, and loan approval status.
 # Results
-Rank | model |	Root Mean Squared | Error	Accuracy on Traing set |	Accuracy on Testing set
+Rank | model |	Root Mean Squared Error |	Accuracy on Traing set |	Accuracy on Testing set
 -----|------|-------------------|------------------------------|-------------------------
 3 |	MLPClassifier |	0.763635 |	39.502196 |	41.686183
 7 |	KNeighborsClassifier |	0.670559 |	72.445095 |	55.035129
