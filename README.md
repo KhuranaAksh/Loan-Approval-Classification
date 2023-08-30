@@ -1,6 +1,7 @@
 # Loan-Approval-Classification
 Welcome to the Loan Approval Prediction project!
-Markup * Developed a machine learning models that assesses the likelihood of an individual's loan approval. 
+Markup 
+* Developed a machine learning models that assesses the likelihood of an individual's loan approval. 
 * The model on a diverse dataset containing information about various individuals with different financial statuses and their historical loan personal information,
 * Enabled to discern patterns that influence loan approval decisions.
 # Data
