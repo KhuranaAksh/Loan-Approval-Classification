@@ -10,10 +10,10 @@ The loan approval dataset comprises financial records and related data utilized 
 model |	Root Mean Squared | Error	Accuracy on Traing set |	Accuracy on Testing set
 ------|-------------------|------------------------------|-------------------------
 3 |	MLPClassifier |	0.763635 |	39.502196 |	41.686183
-7 |	KNeighborsClassifier	0.670559	72.445095	55.035129
-4 |	AdaBoostClassifier	0.181071	97.920937	96.721311
-5 	ExtraTreesClassifier	0.171096	100.000000	97.072600
-0 	DecisionTreeClassifier	0.149158	100.000000	97.775176
-6 	GradientBoostingClassifier	0.149158	99.472914	97.775176
-1 	XGBClassifier	0.141090	100.000000	98.009368
-2 	RandomForestClassifier	0.141090	100.000000	98.009368
+7 |	KNeighborsClassifier |	0.670559 |	72.445095 |	55.035129
+4 |	AdaBoostClassifier |	0.181071 |	97.920937 |	96.721311
+5 |	ExtraTreesClassifier |	0.171096 |	100.000000 |	97.072600
+0 |	DecisionTreeClassifier |	0.149158 |	100.000000 |	97.775176
+6 |	GradientBoostingClassifier |	0.149158 |	99.472914 |	97.775176
+1 |	XGBClassifier |	0.141090 |	100.000000 |	98.009368
+2 |	RandomForestClassifier |	0.141090 |	100.000000 |	98.009368
